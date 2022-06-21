@@ -14,7 +14,7 @@ html5lib==1.0.1
 idna==2.8
 jmespath==0.9.3
 nltk==3.4
-numpy==1.15.4
+numpy==1.22.0
 python-dateutil==2.7.5
 requests==2.21.0
 s3transfer==0.1.13
